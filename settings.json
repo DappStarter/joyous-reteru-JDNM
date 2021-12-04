@@ -1,0 +1,17 @@
+{
+    "name": "ADMIRE Aquaponics",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "ADMIRE Token",
+        "/category/asset_value_tracking/core-token/symbol": "ADMIRE",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/collection/core-entity": true,
+        "/category/asset_value_tracking/core-token/supply": "2000000",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible"
+    }
+}
